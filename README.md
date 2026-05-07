@@ -826,7 +826,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Django-tutorial.dev](https://django-tutorial.dev) - Free online guides for learning Django as their first framework & gives free dofollow backlink to articles written by users.
   * [edX](https://www.edx.org/) - Offers access to over 4,000 free online courses from 250 leading institutions, including Harvard and MIT, specializing in computer science, engineering, and data science.
   * [Exercism](https://exercism.org) - Free, open-source programming education in over 75 programming languages, with human mentoring. A nonprofit organisation.
-  * [Reactive Resume](https://rxresu.me) - Free, open-source resume builder with dozens of templates. Exports to PDF, DOCX and also provides a publicly shareable link to the resume (opt-in).
   * [Free Professional Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
   * [FreeCodeCamp](https://www.freecodecamp.org/) - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.
   * [Full Stack Open](https://fullstackopen.com/en/) - Free university-level course on modern web development with React, Node.js, GraphQL, TypeScript, and more. Fully online and self-paced.
@@ -834,6 +833,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Khan Academy](https://www.khanacademy.org/computing/computer-programming) - Free online guides for learning basic and advanced HTML/CSS, JavaScript and SQL.
   * [LabEx](https://labex.io) - Develop skills in Linux, DevOps, Cybersecurity, Programming, Data Science, and more through interactive labs and real-world projects.
   * [MIT OpenCourseWare](https://ocw.mit.edu/) - MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses, freely sharing knowledge with learners and educators around the world. Youtube channel can be found at [@mitocw](https://www.youtube.com/@mitocw/featured)
+  * [Reactive Resume](https://rxresu.me) - Free, open-source resume builder with dozens of templates. Exports to PDF, DOCX and also provides a publicly shareable link to the resume (opt-in).
   * [Roadmap.sh](https://roadmap.sh) - Free learning roadmaps covering all aspects of development from Blockchain to UX Design.
   * [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
   * [W3Schools](https://www.w3schools.com/) - Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more.
