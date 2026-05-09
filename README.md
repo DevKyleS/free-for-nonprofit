@@ -1462,6 +1462,7 @@ Update Time, five active automations, webhooks.
   * [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.
   * [Expensify](https://www.expensify.com/) - Expense reporting, free personal reporting approval workflow
   * [getinsights.io](https://getinsights.io) - Privacy-focused, cookie-free analytics, free for up to 3k events/month.
+  * [Gizmo Analytics](https://gizmoanalytics.io/) - Simple analytics for people managing lots of sites. Install manually or let Claude/Cursor do it for you. Free for up to 10k events/month.
   * [GoatCounter](https://www.goatcounter.com/) - GoatCounter is an open-source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy-to-use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo. The free tier is for non-commercial use and includes unlimited sites, six months of data retention, and 100k pageviews/month.
   * [Google Analytics](https://analytics.google.com/) - Google Analytics
   * [heap.io](https://heap.io) - Automatically captures every user action in iOS or web apps. Free for up to 10K monthly sessions.
