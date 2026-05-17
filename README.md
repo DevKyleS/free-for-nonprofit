@@ -88,6 +88,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * BigQuery - 1 TB of querying per month, 10 GB of storage each month
     * Cloud Build - 120 build-minutes per day
     * [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
+    * [Kaggle](https://www.kaggle.com/) - Jupyter Notebooks with 4 CPU cores and 30 GB RAM computational environment without any weekly usage limits. With Phone number verification - 1 Nvidia Tesla P100 GPU or 2x Nvidia Tesla T4 GPU can be added with usage limit of 30 GPU hours/week for free. With Identity verification - 1 TPU v3-8 with 96 CPU cores and 330 GB RAM is available with usage limit of 20 hours/week for free. Check [Technical Specifications](https://www.kaggle.com/docs/notebooks#technical-specifications) for more details.
     * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
